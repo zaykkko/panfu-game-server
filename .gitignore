@@ -1,0 +1,5 @@
+# Error files
+*.CONT_UNIT
+*.LE_DSLOG
+
+/limited-code
